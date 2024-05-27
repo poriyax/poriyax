@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me by git hub
-- 😄 Pronouns: :)
+- 😄 Pronouns: :))
 - ⚡ Fun fact: im a noob gamer
 
 <!---
